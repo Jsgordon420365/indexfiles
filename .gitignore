@@ -1,0 +1,4 @@
+inventory.csv
+inventory.json
+__pycache__/
+*.db
