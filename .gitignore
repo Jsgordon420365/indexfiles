@@ -2,3 +2,9 @@ inventory.csv
 inventory.json
 __pycache__/
 *.db
+inventory.csv
+inventory.db
+inventory.json
+inventory_changes.csv
+inventory_changes.json
+rev9_log.txt
